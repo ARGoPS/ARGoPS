@@ -4,6 +4,7 @@ Welcome to the GitHub page for the Astrodynamics Research Group of Penn State (A
                 – Director: Puneet Singla
 2. Computational Astrodynamics Research and Experiments (CARE)
                 – Director: Roshan Eapen
- ARGoPS also hosts the Penn State University Dynamical Observatory (PSUDO), a 0.6m optical ground station in Animas, New Mexico.
+   
+ARGoPS also hosts the Penn State University Dynamical Observatory (PSUDO), a 0.6m optical ground station in Animas, New Mexico.
 
 The ARGoPS GitHub is in its infancy. We are hoping to publish some of our recent work and results soon.
